@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>社会</key>
+        <string>shehui</string>
+
+        <key>国内</key>
+        <string>guonei</string>
+ 
+        <key>国际</key>
+        <string>guoji</string>
+
+        <key>娱乐</key>
+        <string>yule</string>
+
+        <key>体育</key>
+        <string>tiyu</string>
+
+        <key>军事</key>
+        <string>junshi</string>
+
+        <key>科技</key>
+        <string>keji</string>
+ 
+        <key>财经</key>
+        <string>caijing</string>
+
+        <key>时尚</key>
+        <string>shishang</string>
+
+    </dict>
+
+</plist>
